@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Shiloah</string>
+
+
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_new_model">New Model</string>
+    <string name="nav_new_supplier">New Supplier</string>
+    <string name="nav_new_status">New Status</string>
+    <string name="nav_new_location">New Location</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Shiloah</item>
+        <item>Adding New Model</item>
+        <item>Adding New Supplier</item>
+        <item>Adding New Status</item>
+        <item>Adding New Location</item>
+    </string-array>
+
+    <string name="action_logout">Logout</string>
+
+
+    <string name="hello_blank_fragment">Work in progress...</string>
+
+</resources>
